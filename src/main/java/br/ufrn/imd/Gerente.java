@@ -23,6 +23,5 @@ public class Gerente extends Funcionario {
             this.bonus = bonus;
         }
 
-
     }
 }
