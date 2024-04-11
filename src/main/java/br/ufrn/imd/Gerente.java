@@ -19,8 +19,8 @@ public class Gerente extends Funcionario {
 
         public double bonus;
 
-        Nivel(double param) {
-            this.bonus = param;
+        Nivel(double bonus) {
+            this.bonus = bonus;
         }
 
 
